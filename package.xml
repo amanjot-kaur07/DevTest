@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>generic_RelatedListTable</members>
+        <members>lightning_utility</members>
+         <members>customRelatedList</members>
+        <members>lazyLoadingtable</members>
+        <members>multiselect</members>
+        <members>customdatatable</members>
+        <members>renderImage</members>
+        <name>LightningComponentBundle</name>
+    </types>
+    <types>
+        <members>DataTableWrapperController</members>
+        <members>ChildObjects</members>
+        <members>DataTableWrapperController_Test</members>
+        <members>GenericDataUtility</members>
+        <members>Lightning_RemoteResponse</members>
+        <members>Lightning_LandingPageResponseWrapper</members>
+        <members>DataTableResponse</members>
+        <members>LandingPageCtrl</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>SLDS_Underscore</members>
+        <name>StaticResource</name>
+    </types>
+    <types>
+        <members>Apex_Class_Access_for_Related_List</members>
+        <name>PermissionSet</name>
+    </types>
+    <version>51.0</version>
+</Package>
